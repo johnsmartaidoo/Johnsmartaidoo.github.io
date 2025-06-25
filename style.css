@@ -1,4 +1,4 @@
-:root {
+:root {RI
     --primary: #0a192f;
     --secondary: #172a45;
     --accent: #64ffda;
@@ -39,7 +39,7 @@ h1, h2, h3 {
     align-items: Left;
     margin-top: 1.5rem;
 
-    .Logo img {
+.Logo img {
     width: 20px;
     height: 20px;
     border-radius: 50%;
