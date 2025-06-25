@@ -33,6 +33,20 @@ h1, h2, h3 {
     color: var(--accent);
 }
 
+p
+Logo{
+    display: flex;
+    gap: 2rem;
+    align-items: Left;
+    margin-top: 1.5rem;
+
+    .Logo img {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 3px solid var(--accent);
+    object-fit: cover;
+        
 .profile {
     display: flex;
     gap: 2rem;
